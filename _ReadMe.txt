@@ -25,7 +25,6 @@ License: Free for personal and commercial use under the Creative Commons Attribu
 ------> NOTICE
 -----------------------------------------------------------------------------------------------------------------------
 
-- Contact form only works in a server environment.
 
 ---------------------------------------------------
 TO DO LIST:
