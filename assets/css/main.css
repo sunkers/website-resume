@@ -869,11 +869,10 @@ button {
 #footer .social-icons {
   padding: 0;
   list-style: none;
-}
-#footer .social-icons li {
   display: inline-block;
 }
-#footer .social-icons li a {
+
+#footer .social-icons a {
   font-size: 1.5rem;
   line-height: 5rem;
   line-height: calc(5rem - 4px);
@@ -890,7 +889,7 @@ button {
   border-radius: 100%;
   background: none;
 }
-#footer .social-icons li a i {
+#footer .social-icons a i {
   position: absolute;
   top: 50%;
   left: 0;
@@ -900,19 +899,19 @@ button {
   transform: translateY(-50%);
   text-align: center;
 }
-#footer .social-icons li a i:first-child {
+#footer .social-icons a i:first-child {
   top: -50%;
 }
-#footer .social-icons li a:hover i:first-child {
+#footer .social-icons a:hover i:first-child {
   top: 50%;
   -webkit-transition: 0.15s ease;
   -o-transition: 0.15s ease;
   transition: 0.15s ease;
 }
-#footer .social-icons li a i:last-child {
+#footer .social-icons a i:last-child {
   top: 50%;
 }
-#footer .social-icons li a:hover i:last-child {
+#footer .social-icons a:hover i:last-child {
   top: 150%;
   -webkit-transition: 0.15s ease;
   -o-transition: 0.15s ease;
