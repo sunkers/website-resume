@@ -2,8 +2,8 @@
 ------> INFO
 -----------------------------------------------------------------------------------------------------------------------
 
-Template Name: Ethan
-Design/Development: templatefoundation.com
+Name: Loïc Mougin - Curriculum vitae
+Design/Development: https://loic-moug.in
 License: Free for personal and commercial use under the Creative Commons Attribution 4.0 license
 
 
